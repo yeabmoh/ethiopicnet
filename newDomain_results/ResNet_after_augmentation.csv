@@ -1,0 +1,2 @@
+model_name,train_accuracy,test_accuracy,train_loss,test_loss
+ResNet,0.9482666666666667,0.35294117647058826,0.14456939926981927,4.104660001455569
